@@ -6,7 +6,7 @@ Vedica Scholars is a one-year postgraduate management programme based in New Del
 
 ## About
 
-The programme combines management education with experiential learning, industry interaction, workshops, internships, and career development to prepare graduates for successful careers across diverse industries.
+Vedica Scholars Programme for Women is a one-year postgraduate management programme in New Delhi, India, empowering women through academic excellence, leadership development, mentorship, industry engagement, and experiential learning. Learn more at https://vedicascholars.com/
 
 ## Website
 
