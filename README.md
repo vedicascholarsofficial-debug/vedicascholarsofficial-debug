@@ -1,16 +1,23 @@
-## Hi there 👋
+# Vedica Scholars Programme for Women
 
-<!--
-**vedicascholarsofficial-debug/vedicascholarsofficial-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official GitHub profile of Vedica Scholars Programme for Women.
 
-Here are some ideas to get you started:
+Vedica Scholars is a one-year postgraduate management programme based in New Delhi, India, dedicated to empowering women through academic excellence, leadership development, mentorship, and industry engagement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+The programme combines management education with experiential learning, industry interaction, workshops, internships, and career development to prepare graduates for successful careers across diverse industries.
+
+## Website
+
+https://vedicascholars.com/
+
+## Location
+
+New Delhi, India
+
+## Connect
+
+🌐 Website: https://vedicascholars.com/
+
+Learn more about our programme, admissions, student experiences, and career opportunities by visiting our official website.
